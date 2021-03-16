@@ -18,4 +18,8 @@ Here are some ideas to get you started:
 ## <ins>React / Frontend Projects </ins>
 ###  [:stopwatch: Pomodoro Timer](https://pomodoro-ivory.vercel.app/)   
 ###  [:moneybag: Bitcoin Price](https://bitcoin-price-umber.vercel.app/)    
+### [:technologist: Avatar Creator](https://avatar-andrewtheodorides1.vercel.app/)
+### [:iphone: QR Generator](https://qr-generator.now.sh/)
+
+
 
