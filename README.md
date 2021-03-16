@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Andrew 👋
 
 <!--
 **AndrewTheo/AndrewTheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## <ins>React / Frontend Projects </ins>
+###  [:stopwatch: Pomodoro Timer](https://pomodoro-ivory.vercel.app/)   
+###  [:moneybag: Bitcoin Price](https://bitcoin-price-umber.vercel.app/)    
+
