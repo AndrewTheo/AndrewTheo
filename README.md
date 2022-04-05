@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-theodorides&count_private=true&hide=prs,issues,contribute&show_icons=true&theme=radical)](https://github.com/andrew-theodorides)
 
-### [https://andrewtheo.dev/](https://andrewtheo.dev/)
+### [https://www.andrewtheo.dev/](https://andrewtheo.dev/)
 
 
 
