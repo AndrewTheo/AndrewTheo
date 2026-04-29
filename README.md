@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-### [https://www.andrewtheo.dev/](https://andrewtheo.dev/)
-
 
 
 
